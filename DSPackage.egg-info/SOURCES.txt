@@ -1,0 +1,8 @@
+setup.py
+DSPackage/__init__.py
+DSPackage/fetch_data.py
+DSPackage.egg-info/PKG-INFO
+DSPackage.egg-info/SOURCES.txt
+DSPackage.egg-info/dependency_links.txt
+DSPackage.egg-info/requires.txt
+DSPackage.egg-info/top_level.txt
