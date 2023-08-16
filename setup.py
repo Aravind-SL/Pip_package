@@ -21,6 +21,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
     packages=find_packages(),
+    package_data={'DSPackage': ['Data/*.csv']},
     install_requires=['pandas'],
     keywords=['python', 'DS', 'datasets'],
     classifiers=[
