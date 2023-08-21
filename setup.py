@@ -13,7 +13,7 @@ LONG_DESCRIPTION = 'A package that allows to fetch all the required csv files fo
 
 # Setting up
 setup(
-    name="DSPackage",
+    name="TestDSPackage",
     version=VERSION,
     author="Aravind S, Ashik Jenly VL",
     author_email="aravind9180@gmail.com",
