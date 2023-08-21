@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: TestDSPackage
+Version: 0.0.1
+Summary: package to load needed csv files
+Author: Aravind S, Ashik Jenly VL
+Author-email: aravind9180@gmail.com
+Keywords: python,DS,datasets
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+A package that allows to fetch all the required csv files for lab manual exercises.

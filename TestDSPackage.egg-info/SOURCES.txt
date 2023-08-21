@@ -1,0 +1,9 @@
+setup.py
+TestDSPackage/__init__.py
+TestDSPackage/exception.py
+TestDSPackage/fetchdata.py
+TestDSPackage.egg-info/PKG-INFO
+TestDSPackage.egg-info/SOURCES.txt
+TestDSPackage.egg-info/dependency_links.txt
+TestDSPackage.egg-info/requires.txt
+TestDSPackage.egg-info/top_level.txt
